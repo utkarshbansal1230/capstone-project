@@ -1,2 +1,3 @@
 # capstone-project
  
+This project is dedicated to crafting a highly detailed 3D model of our college dormitories, leveraging cutting-edge techniques such as ray tracing for impeccable lighting simulation and texture mapping to infuse realism into every facet. The ultimate goal is to seamlessly integrate Augmented Reality (AR) technology, enhancing the immersive experience and interactivity for users exploring the digital replica.
